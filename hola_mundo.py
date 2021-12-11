@@ -1,2 +1,2 @@
 print("Hola a todos")
-print("Subiendo archivo")
+print("Subiendo al GIT")
